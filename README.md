@@ -20,11 +20,11 @@
 
 ## 📁 Featured Projects
 
-- 🔥 [Analyzing Kafka](https://github.com/altnsksema/analyzing-kafka) — Kafka streaming ve veri analizi projesi  
-- 🚀 [Icarus](https://github.com/altnsksema/icarus) — Oyun geliştirme / Unity projesi  
-- 🎬 [Movie Analytics](https://github.com/altnsksema/movie-analytics) — PySpark ile film verisi analizi  
-- 📞 [Phone Book](https://github.com/altnsksema/phone_book) — Flask REST API uygulaması  
-- 🔢 [Algorithm](https://github.com/altnsksema/Algorithm) — Veri yapıları ve algoritmalar  
+- 🔥 [Analyzing Kafka](https://github.com/altnsksema/analyzing-kafka) — Kafka Streaming and Data Analyzing Project
+- 🚀 [Icarus](https://github.com/altnsksema/icarus) — Saving Food Agriculture App   
+- 🎬 [Movie Analytics](https://github.com/altnsksema/movie-analytics) — Movie Analyzing with PySpark  
+- 📞 [Phone Book](https://github.com/altnsksema/phone_book) — Flask REST API App  
+- 🔢 [Algorithm](https://github.com/altnsksema/Algorithm) — Data Structures and Algorithms  
 
 ---
 
