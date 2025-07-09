@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Sema
-Software Engineering student | Aspiring Data Engineer / ML Enthusiast
+Software Engineer | Aspiring Data Engineer / ML Enthusiast
 
 ### 🔭 Exploring:
 <p float="left">
