@@ -18,6 +18,16 @@
 
 ---
 
+## 📁 Featured Projects
+
+- 🔥 [Analyzing Kafka](https://github.com/altnsksema/analyzing-kafka) — Kafka streaming ve veri analizi projesi  
+- 🚀 [Icarus](https://github.com/altnsksema/icarus) — Oyun geliştirme / Unity projesi  
+- 🎬 [Movie Analytics](https://github.com/altnsksema/movie-analytics) — PySpark ile film verisi analizi  
+- 📞 [Phone Book](https://github.com/altnsksema/phone_book) — Flask REST API uygulaması  
+- 🔢 [Algorithm](https://github.com/altnsksema/Algorithm) — Veri yapıları ve algoritmalar  
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=altnsksema&show_icons=true&theme=radical" alt="Sema's GitHub Stats" />
@@ -27,8 +37,8 @@
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/...) 
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin) 
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@your-medium)
 
 ---
 
