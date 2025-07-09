@@ -1,22 +1,35 @@
-## 👋 Hi, I’m Sema
-Software Engineer | Aspiring Data Engineer / ML Enthusiast
+<h1 align="center">Hi 👋, I'm Sema</h1>
+<h3 align="center">Aspiring Data Engineer | Software Engineer | AI Enthusiast</h3>
 
-### 🔭 Exploring:
-<p float="left">
-  <img src="...python.svg" width="40"/>
-  <img src="...pyspark.svg" width="40"/>
-  <img src="...flask.svg" width="40"/>
-  ... diğer ikonlar ...
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Data+Engineering+%26+Python;Always+learning+something+new+💡" alt="Typing SVG" />
 </p>
 
-### 🛠️ Projects
-- **movie-analytics** – 🎬 PySpark ile film verisi analizi  
-- **phone_book** – 📞 Flask tabanlı REST API uygulaması  
-- **Algorithms** – 🔢 Java ile sıralama & DS algoritmaları  
-- **Script-Recognition** – ✍️ El yazısı tanıma Python/ML
+---
 
-### 📊 GitHub Stats
-![Sema's GitHub stats](https://github-readme-stats.vercel.app/api?username=altnsksema&show_icons=true&theme=dark)
+## 🛠️ Languages and Tools
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="40" height="40"/>
+</p>
 
-### 📫 Find me:
-[![LinkedIn]](...) [![Medium]](...)
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=altnsksema&show_icons=true&theme=radical" alt="Sema's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=altnsksema&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/...) 
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@...)
+
+---
+
+⭐️ **Thanks for visiting my profile!**
