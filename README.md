@@ -20,11 +20,11 @@
 
 ## 📁 Featured Projects
 
-- 🔥 [Analyzing Kafka](https://github.com/altnsksema/analyzing-kafka) — Kafka Streaming and Data Analyzing Project
-- 🚀 [Icarus](https://github.com/altnsksema/icarus) — Saving Food Agriculture App   
-- 🎬 [Movie Analytics](https://github.com/altnsksema/movie-analytics) — Movie Analyzing with PySpark  
-- 📞 [Phone Book](https://github.com/altnsksema/phone_book) — Flask REST API App  
-- 🔢 [Algorithm](https://github.com/altnsksema/Algorithm) — Data Structures and Algorithms  
+- 🔥 [Smart Assistant RAG Pipeline Project]([https://github.com/altnsksema/analyzing-kafka](https://github.com/altnsksema/-Smart-Assistant-RAG-Pipeline-Project)) — Smart Assistant RAG Pipeline Project
+- 🚀 [Icarus](https://github.com/altnsksema/icarus) — Saving Food Agriculture App
+- [Story Universe E-Book] (https://github.com/altnsksema/Story-Universe) - Story Universe E-Book App
+ 
+ 
 
 ---
 
