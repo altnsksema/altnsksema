@@ -20,9 +20,9 @@
 
 ## 📁 Featured Projects
 
-- 🔥 [Smart Assistant RAG Pipeline Project]([https://github.com/altnsksema/analyzing-kafka](https://github.com/altnsksema/-Smart-Assistant-RAG-Pipeline-Project)) — Smart Assistant RAG Pipeline Project
-- 🚀 [Icarus](https://github.com/altnsksema/icarus) — Saving Food Agriculture App
-- [Story Universe E-Book] (https://github.com/altnsksema/Story-Universe) - Story Universe E-Book App
+- 🔥 **[Smart Assistant RAG Pipeline Project](https://github.com/altnsksema/-Smart-Assistant-RAG-Pipeline-Project)** — Smart Assistant RAG Pipeline Project
+- 🚀 **[Icarus](https://github.com/altnsksema/icarus)** — Saving Food Agriculture App
+- 📖 **[Story Universe](https://github.com/altnsksema/Story-Universe)** — Story Universe E-Book App
  
  
 
